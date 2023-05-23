@@ -25,7 +25,7 @@
       "defaultValue": "18.04-LTS",
       "allowedValues": [
         "18.04-LTS",
-        "16.04.0-LTS",
+        "22_04-lts-gen2",
         "14.04.5-LTS"
       ],
       "metadata": {
