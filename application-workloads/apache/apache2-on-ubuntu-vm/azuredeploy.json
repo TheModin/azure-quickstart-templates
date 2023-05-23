@@ -22,9 +22,8 @@
     },
     "ubuntuOSVersion": {
       "type": "string",
-      "defaultValue": "22_04-lts-gen2",
+      "defaultValue": "18.04-LTS",
       "allowedValues": [
-        "22_04-lts-gen2",
         "18.04-LTS",
         "16.04.0-LTS",
         "14.04.5-LTS"
